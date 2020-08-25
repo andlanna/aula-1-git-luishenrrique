@@ -1,0 +1,14 @@
+1 - Informe o propósito e os efeitos de cada um dos comandos git listados abaixo:
+	A) git init: Inicia o repositório remoto na máquina local
+	B) git clone: Copia os arquivos do repositório na máquina local
+	C) git branch: Divide os commits em instâncias
+	D) git checkout: Cria e altera os branch
+	E) git fetch: Baixa arquivos do repositório remoto
+	F) git pull: Sobe os aquivos para o repositório remoto
+	G) git add: Prepara os arquivos ou alterações feitas em arquivos para o commit
+	H) git commit: É uma alteração concluida acompanhada de uma mensagem pronta para o repositório remoto
+	I) git push: Sobe os aquivos para o repositório remoto
+	
+2 - Diferêncie os comando git pull e git fetch com base nos resultados produzidos por eles:
+	São opostos enquanto git fetch busca os arquivos da rede(repositório remoto) o git pull envia 
+	as modificações feitas para o repositório remoto
